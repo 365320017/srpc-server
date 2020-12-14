@@ -1,0 +1,21 @@
+{
+    "name": "365320017/swoft-rpc-server",
+    "description": "php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "尹华",
+            "email": "365320017@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "365320017/swoft-rpc-server": "src/"
+        }
+    }
+}
