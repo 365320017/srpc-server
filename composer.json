@@ -1,5 +1,5 @@
 {
-    "name": "365320017/swoft-rpc-server",
+    "name": "365320017/srpc-server",
     "description": "php",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "365320017/swoft-rpc-server": "src/"
+            "365320017/srpc-server": "src/"
         }
     }
 }
